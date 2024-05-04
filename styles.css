@@ -169,30 +169,3 @@ body {
     
 }
 
-@media (max-width: 1000px) {
-    .principal {
-        display: flex;
-}
-
-    .secundario {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .dispositivos__listas {
-        display: flex;
-        flex-direction: column;
-        
-    }
-
-    .rodape__lista a{
-        font-size: 0.6rem;
-        margin: 1em;
-        
-    }
-
-    .rodape__texto{
-        font-size: 0.4rem;
-    }
-    
-}
